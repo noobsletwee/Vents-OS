@@ -14,8 +14,8 @@ Here are some of the features:
 - A terminal
 
 ## Requirements
-- 180 MB storage
-- 64 MB RAM
+- 40 MB storage
+- 16 MB RAM
 - Modern browser
 
 ## Alpha version
