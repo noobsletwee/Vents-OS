@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="chrome_mPpTXpZrY4" src="https://github.com/user-attachments/assets/db923acd-59ed-4ff9-969b-822a0e9e409f" />
 # Vents-OS
 
 Vents OS is a web-based operating system (currently v0.9 alpha) that I’m working on.
@@ -32,5 +33,3 @@ If you want to Help in developing this Web OS add me on discord (Noobsletwee)
 
 ## Copyright
 Copyright © 2026. All rights reserved.
-
-<img width="1920" height="1080" alt="chrome_mPpTXpZrY4" src="https://github.com/user-attachments/assets/db923acd-59ed-4ff9-969b-822a0e9e409f" />
