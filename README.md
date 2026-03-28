@@ -28,7 +28,10 @@ Made by me
 Solo project (1 developer)
 
 ## Help
-If you want to Test or Help in developing this Web OS add me on discord (Noobsletwee
+If you want to Help in developing this Web OS add me on discord (Noobsletwee)
+
+## Link
+https://vent-os--idunnoa.replit.app/ -- Vents OS 0.9 Alpha, expect bugs
 
 ## Copyright
 Copyright © 2026. All rights reserved.
