@@ -27,5 +27,8 @@ Made by me
 ## Project status
 Solo project (1 developer)
 
+## Help
+If you want to Test or Help in developing this Web OS add me on discord (Noobsletwee
+
 ## Copyright
 Copyright © 2026. All rights reserved.
